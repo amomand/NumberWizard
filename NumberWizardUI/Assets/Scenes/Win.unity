@@ -353,8 +353,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -210.2, y: -25}
-  m_SizeDelta: {x: 436.1, y: 59.4}
+  m_AnchoredPosition: {x: -219.60004, y: -47.900013}
+  m_SizeDelta: {x: 439.2, y: 95.8}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &254863118
 MonoBehaviour:
@@ -378,8 +378,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Play Again
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6930fca51e9734da49acb777cf1beb5c, type: 2}
-  m_sharedMaterial: {fileID: -7629822021900495384, guid: 6930fca51e9734da49acb777cf1beb5c,
+  m_fontAsset: {fileID: 11400000, guid: 7895a1fe828f24c8cb602febb51b7785, type: 2}
+  m_sharedMaterial: {fileID: -7315336927629770104, guid: 7895a1fe828f24c8cb602febb51b7785,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -405,8 +405,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 120
-  m_fontSizeBase: 120
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -422,7 +422,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0

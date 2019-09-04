@@ -378,8 +378,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Start
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6930fca51e9734da49acb777cf1beb5c, type: 2}
-  m_sharedMaterial: {fileID: -7629822021900495384, guid: 6930fca51e9734da49acb777cf1beb5c,
+  m_fontAsset: {fileID: 11400000, guid: 7895a1fe828f24c8cb602febb51b7785, type: 2}
+  m_sharedMaterial: {fileID: -7315336927629770104, guid: 7895a1fe828f24c8cb602febb51b7785,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
